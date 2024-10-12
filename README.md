@@ -1,1 +1,1 @@
-# tic-tac-toe-backend project
+# tic-tac-toe-backend
